@@ -1,0 +1,7 @@
+[text* your-name class:nayyar-label placeholder "Name"]
+
+[email* your-email class:nayyar-label placeholder "Email"]
+
+[textarea* your-message class:nayyar-label placeholder "Message"]
+
+[submit "Send"]

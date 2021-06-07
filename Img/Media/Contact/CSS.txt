@@ -1,0 +1,37 @@
+/*** Contact Form - STYLE ***/
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required.nayyar-label {		
+		border-style: solid;
+    border-width: 0 0 2px 0;
+    border-color: #eee;
+    border-radius: 0 0 0 0;
+    color: #2f3a5f;
+    padding: 0 0 17px 0;
+	  font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 2;
+}
+
+textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required.nayyar-label {
+	border-style: solid;
+    border-width: 0 0 2px 0;
+    border-color: #eee;
+    border-radius: 0 0 0 0;
+    color: #2f3a5f;
+    padding: 0 0 17px 0;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+input.wpcf7-form-control.wpcf7-submit {
+width: 148px;
+    height: 48px;
+    margin: 40px 0 0 0;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: #ff6334;
+    background-image: none;
+    border-radius: 24px 24px 24px 24px;
+}
